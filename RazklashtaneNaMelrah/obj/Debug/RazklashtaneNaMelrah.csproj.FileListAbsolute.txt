@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\RazklashtaneNaMelrah\bin\Debug\RazklashtaneNaMelrah.exe.config
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\RazklashtaneNaMelrah\bin\Debug\RazklashtaneNaMelrah.exe
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\RazklashtaneNaMelrah\bin\Debug\RazklashtaneNaMelrah.pdb
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\RazklashtaneNaMelrah\obj\Debug\RazklashtaneNaMelrah.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\RazklashtaneNaMelrah\obj\Debug\RazklashtaneNaMelrah.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\RazklashtaneNaMelrah\obj\Debug\RazklashtaneNaMelrah.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\RazklashtaneNaMelrah\obj\Debug\RazklashtaneNaMelrah.exe
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\RazklashtaneNaMelrah\obj\Debug\RazklashtaneNaMelrah.pdb

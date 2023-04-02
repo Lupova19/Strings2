@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\KarateString\bin\Debug\KarateString.exe.config
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\KarateString\bin\Debug\KarateString.exe
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\KarateString\bin\Debug\KarateString.pdb
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\KarateString\obj\Debug\KarateString.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\KarateString\obj\Debug\KarateString.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\KarateString\obj\Debug\KarateString.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\KarateString\obj\Debug\KarateString.exe
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\KarateString\obj\Debug\KarateString.pdb

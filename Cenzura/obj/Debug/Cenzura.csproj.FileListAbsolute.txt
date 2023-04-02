@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\Cenzura\bin\Debug\Cenzura.exe.config
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\Cenzura\bin\Debug\Cenzura.exe
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\Cenzura\bin\Debug\Cenzura.pdb
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\Cenzura\obj\Debug\Cenzura.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\Cenzura\obj\Debug\Cenzura.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\Cenzura\obj\Debug\Cenzura.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\Cenzura\obj\Debug\Cenzura.exe
+C:\Users\Admin\Desktop\Lupova19\StringZadachi2\Cenzura\obj\Debug\Cenzura.pdb
